@@ -1,0 +1,33 @@
+
+tr.IndexPage, td.IndexPage{
+			text-align: center; 
+			border-style: solid; 
+			width: 400px;
+		}
+
+img.IndexPage{
+
+	width: 400px;
+}
+p.IndexPage, h1.IndexPage {
+	font-family: sans-serif;
+	font-size: 15pt;
+	font-style: 
+	text-align: center;
+	color: #333333;
+
+
+}
+td.MovTd{
+			padding-top: 10px;
+			text-align: center; 
+			 border-style: groove;
+			max-width: 1500px;
+		}
+p.MovTd{
+			font-size: 20px;
+			text-shadow: unset;
+		}
+img.MovTd{
+			width: 400px;
+		}
