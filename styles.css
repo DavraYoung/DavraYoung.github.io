@@ -1,33 +1,57 @@
 
-tr.IndexPage, td.IndexPage{
-			text-align: center; 
-			border-style: solid; 
-			width: 400px;
-		}
+body {
+    background-image: url("bg.jpg");
+
+    background-color: #565D65;
+    background-repeat: all;
+}
+
+
+.Wrapper{
+	text-align: center; 
+
+	margin-left: 300px;
+	
+	padding-bottom: 20px;
+	margin-right: 300px;
+	border: 5px solid #e6e6e6;
+    border-radius: 4px;
+    background-color: white;
+}
 
 img.IndexPage{
-
+	border: 5px solid #565D65;
+    border-radius: 4px;
+    background-color: white;
 	width: 400px;
 }
-p.IndexPage, h1.IndexPage {
-	font-family: sans-serif;
-	font-size: 15pt;
+h1.IndexPage{
+font-family: sans-serif;
+	font-size: 30pt;
 	font-style: 
 	text-align: center;
 	color: #333333;
 
 
 }
-td.MovTd{
-			padding-top: 10px;
-			text-align: center; 
-			 border-style: groove;
-			max-width: 1500px;
-		}
-p.MovTd{
+p.IndexPage{
+	
+	font-family: sans-serif;
+	font-size: 15pt;
+	font-style: 
+	text-align: center;
+	color: #333333;
+}
+
+
+
+p.MovTd{	
+			padding-left: 30px;
+			padding-right: 30px;
 			font-size: 20px;
 			text-shadow: unset;
 		}
 img.MovTd{
+			padding-top: 50px;
 			width: 400px;
 		}
